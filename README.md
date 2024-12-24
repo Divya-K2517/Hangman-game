@@ -1,5 +1,6 @@
 # Hangman
 
+![Screen Recording 2024-12-24 at 6 06 21 PM (1)](https://github.com/user-attachments/assets/959d08c7-11c8-4cec-ad8a-dc90ed4f4286)
 
 
 **Description:**  
