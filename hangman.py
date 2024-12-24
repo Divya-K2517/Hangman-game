@@ -26,6 +26,7 @@ clock = pygame.time.Clock() #sets up an FPS(frames per second)
 surface = pygame.Surface((1000,300))
 font=pygame.font.Font(None, 24)
 bigfont = pygame.font.Font(None, 48)
+pygame.display.set_caption("Hangman")
 
 #functions
         
